@@ -1,0 +1,13 @@
+[project]
+name = "wihp"
+version = "0.1.0"
+description = "Wisconsin hospital price transparency: CMS standard files -> DuckDB"
+requires-python = ">=3.10"
+dependencies = ["duckdb>=1.1"]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

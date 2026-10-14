@@ -1,0 +1,5 @@
+hospital_name,last_updated_on,version,location_name,hospital_address,license_number|WI,type_2_npi,attestation,attester_name
+Sample Wide Hospital,4/1/2026,3.0.0,Sample Wide Hospital,"2 Main St, Anytown, WI 53000",2|WI,1234567891,TRUE,Test Attester
+description,code|1,code|1|type,setting,standard_charge|gross,standard_charge|discounted_cash,standard_charge|Payer A|PPO|negotiated_dollar,standard_charge|Payer A|PPO|negotiated_percentage,standard_charge|Payer A|PPO|negotiated_algorithm,median_amount|Payer A|PPO,standard_charge|Payer A|PPO|methodology,standard_charge|Payer C|MCO |negotiated_dollar,standard_charge|Payer C|MCO |negotiated_percentage,standard_charge|Payer C|MCO |negotiated_algorithm,median_amount|Payer C|MCO ,standard_charge|Payer C|MCO |methodology
+COMPREHENSIVE METABOLIC PANEL,80053,CPT,both,200,100,25.5,,,24,fee schedule,,,,,
+COLONOSCOPY DIAGNOSTIC,45378,CPT,outpatient,3000,1500,1800,,,1750,case rate,,45,,,percent of total billed charges

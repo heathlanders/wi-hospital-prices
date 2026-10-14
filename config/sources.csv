@@ -1,0 +1,6 @@
+slug,hospital,city,system,url
+uw,University Hospital,Madison,UW Health,https://bynder.uwhealth.org/m/35d806d784d4cdbd/original/391835630_University-of-Wisconsin-Hospital-and-Clinics-Authority_standardcharges.csv
+aurora,Aurora St. Luke's Medical Center,Milwaukee,Advocate Health,https://sthpiprd.blob.core.windows.net/machine-readable-files/11257/390806181_aurora-st-lukes-medical-center-of-aurora-health-care-metro-inc_standardcharges.csv
+bellin,Bellin Memorial Hospital,Green Bay,Emplify Health,https://bellin-ghs.pt.panaceainc.com/MRFDownload/bellin-ghs/bellin-memorial
+hshs,HSHS St. Vincent Hospital,Green Bay,HSHS,https://www.hshs.org/getmedia/c8dc1a34-e326-4062-8f1e-9843345918c1/390817529_st-vincent-hospital-of-the-hospital-sisters-of-the-third-order-of-st-francis_standardcharges.zip
+marshfield,Marshfield Medical Center,Marshfield,Marshfield Clinic Health System,https://www.marshfieldclinic.org/-/media/marshfieldclinic/files/patient%20resources/cms-hpt-documents/810977948_marshfield-medical-center--marshfield_standardcharges.zip

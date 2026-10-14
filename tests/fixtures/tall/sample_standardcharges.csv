@@ -1,0 +1,7 @@
+hospital_name,last_updated_on,version,location_name,hospital_address,license_number|WI,type_2_npi,attestation,attester_name
+Sample Tall Hospital,2026-01-01,3.0.0,Sample Tall Hospital,"1 Main St, Anytown, WI 53000",1|WI,1234567890,TRUE,Test Attester
+DESCRIPTION,CODE|1,CODE|1|TYPE,code|2,code|2|type,modifiers,SETTING,billing_class,standard_charge|gross,standard_charge|discounted_cash,payer_name,plan_name,standard_charge|negotiated_dollar,standard_charge|negotiated_percentage,standard_charge|negotiated_algorithm,median_amount,standard_charge|methodology,standard_charge|min,standard_charge|max
+MRI BRAIN W/O & W/ CONTRAST,70553,CPT,0611,RC,,Outpatient,facility,"$3,000.00",1500,Payer A,PPO,"1,200.50",,,1100,fee schedule,800,1200.50
+MRI BRAIN W/O & W/ CONTRAST,70553,CPT,0611,RC,,Outpatient,facility,"$3,000.00",1500,Payer B,HMO,800,,,,fee schedule,800,1200.50
+ANESTHESIA ARTERIOGRAM,1967,CPT,,,,Both,professional,500,250,Payer A,PPO,,60,,,percent of total billed charges,,
+BILATERAL PROCEDURES,,,,,50,Both,facility,,,Payer A,PPO,,,,,,,

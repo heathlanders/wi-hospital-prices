@@ -1,0 +1,13 @@
+# Raw and derived data (data/ links to a larger disk)
+data
+*.duckdb
+*.duckdb.wal
+*.parquet
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+# Power BI
+*.pbix.bak
