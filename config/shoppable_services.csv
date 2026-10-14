@@ -1,0 +1,75 @@
+service_code,code,code_type,category,description
+90832,90832,CPT,Evaluation & Management Services,"Psychotherapy, 30 min"
+90834,90834,CPT,Evaluation & Management Services,"Psychotherapy, 45 min"
+90837,90837,CPT,Evaluation & Management Services,"Psychotherapy, 60 min"
+90846,90846,CPT,Evaluation & Management Services,"Family psychotherapy, not including patient, 50 min"
+90847,90847,CPT,Evaluation & Management Services,"Family psychotherapy, including patient, 50 min"
+90853,90853,CPT,Evaluation & Management Services,Group psychotherapy
+99203,99203,CPT,Evaluation & Management Services,"New patient office or other outpatient visit, typically 30 min"
+99204,99204,CPT,Evaluation & Management Services,"New patient office of other outpatient visit, typically 45 min"
+99205,99205,CPT,Evaluation & Management Services,"New patient office of other outpatient visit, typically 60 min"
+99243,99243,CPT,Evaluation & Management Services,"Patient office consultation, typically 40 min"
+99244,99244,CPT,Evaluation & Management Services,"Patient office consultation, typically 60 min"
+99385,99385,CPT,Evaluation & Management Services,Initial new patient preventive medicine evaluation (18-39 years)
+99386,99386,CPT,Evaluation & Management Services,Initial new patient preventive medicine evaluation (40-64 years)
+80048,80048,CPT,Laboratory & Pathology Services,Basic metabolic panel
+80053,80053,CPT,Laboratory & Pathology Services,"Blood test, comprehensive group of blood chemicals"
+80055,80055,CPT,Laboratory & Pathology Services,Obstetric blood test panel
+80061,80061,CPT,Laboratory & Pathology Services,"Blood test, lipids (cholesterol and triglycerides)"
+80069,80069,CPT,Laboratory & Pathology Services,Kidney function panel test
+80076,80076,CPT,Laboratory & Pathology Services,Liver function blood test panel
+81000,81000,CPT,Laboratory & Pathology Services,Manual urinalysis test with examination using microscope
+81000,81001,CPT,Laboratory & Pathology Services,Manual urinalysis test with examination using microscope
+81002,81002,CPT,Laboratory & Pathology Services,Automated urinalysis test
+81002,81003,CPT,Laboratory & Pathology Services,Automated urinalysis test
+84153,84153,CPT,Laboratory & Pathology Services,PSA (prostate specific antigen)
+84153,84154,CPT,Laboratory & Pathology Services,PSA (prostate specific antigen)
+84443,84443,CPT,Laboratory & Pathology Services,"Blood test, thyroid stimulating hormone (TSH)"
+85025,85025,CPT,Laboratory & Pathology Services,"Complete blood cell count, with differential white blood cells, automated"
+85027,85027,CPT,Laboratory & Pathology Services,"Complete blood count, automated"
+85610,85610,CPT,Laboratory & Pathology Services,"Blood test, clotting time"
+85730,85730,CPT,Laboratory & Pathology Services,Coagulation assessment blood test
+70450,70450,CPT,Radiology Services,"CT scan, head or brain, without contrast"
+70553,70553,CPT,Radiology Services,MRI scan of brain before and after contrast
+72110,72110,CPT,Radiology Services,"X-Ray, lower back, minimum four views"
+72148,72148,CPT,Radiology Services,MRI scan of lower spinal canal
+72193,72193,CPT,Radiology Services,"CT scan, pelvis, with contrast"
+73721,73721,CPT,Radiology Services,MRI scan of leg joint
+74177,74177,CPT,Radiology Services,CT scan of abdomen and pelvis with contrast
+76700,76700,CPT,Radiology Services,Ultrasound of abdomen
+76805,76805,CPT,Radiology Services,Abdominal ultrasound of pregnant uterus (greater or equal to 14 weeks 0 days) single or first fetus
+76830,76830,CPT,Radiology Services,Ultrasound pelvis through vagina
+77065,77065,CPT,Radiology Services,Mammography of one breast
+77066,77066,CPT,Radiology Services,Mammography of both breasts
+77067,77067,CPT,Radiology Services,"Mammography, screening, bilateral"
+216,216,MS-DRG,Medicine and Surgery Services,Cardiac valve and other major cardiothoracic procedures with cardiac catheterization with major complications or comorbidities
+460,460,MS-DRG,Medicine and Surgery Services,Spinal fusion except cervical without major comorbid conditions or complications (MCC)
+470,470,MS-DRG,Medicine and Surgery Services,Major joint replacement or reattachment of lower extremity without major comorbid conditions or complications (MCC)
+473,473,MS-DRG,Medicine and Surgery Services,Cervical spinal fusion without comorbid conditions (CC) or major comorbid conditions or complications (MCC)
+743,743,MS-DRG,Medicine and Surgery Services,Uterine and adnexa procedures for non-malignancy without comorbid conditions (CC) or major comorbid conditions or complications (MCC)
+19120,19120,CPT,Medicine and Surgery Services,"Removal of 1 or more breast growth, open procedure"
+29826,29826,CPT,Medicine and Surgery Services,Shaving of shoulder bone using an endoscope
+29881,29881,CPT,Medicine and Surgery Services,Removal of one knee cartilage using an endoscope
+42820,42820,CPT,Medicine and Surgery Services,Removal of tonsils and adenoid glands patient younger than age 12
+43235,43235,CPT,Medicine and Surgery Services,"Diagnostic examination of esophagus, stomach, and/or upper small bowel using an endoscope"
+43239,43239,CPT,Medicine and Surgery Services,"Biopsy of the esophagus, stomach, and/or upper small bowel using an endoscope"
+45378,45378,CPT,Medicine and Surgery Services,Diagnostic examination of large bowel using an endoscope
+45380,45380,CPT,Medicine and Surgery Services,Biopsy of large bowel using an endoscope
+45385,45385,CPT,Medicine and Surgery Services,Removal of polyps or growths of large bowel using an endoscope
+45391,45391,CPT,Medicine and Surgery Services,Ultrasound examination of lower large bowel using an endoscope
+47562,47562,CPT,Medicine and Surgery Services,Removal of gallbladder using an endoscope
+49505,49505,CPT,Medicine and Surgery Services,Repair of groin hernia patient age 5 years or older
+55700,55700,CPT,Medicine and Surgery Services,Biopsy of prostate gland
+55866,55866,CPT,Medicine and Surgery Services,Surgical removal of prostate and surrounding lymph nodes using an endoscope
+59400,59400,CPT,Medicine and Surgery Services,"Routine obstetric care for vaginal delivery, including pre-and post-delivery care"
+59510,59510,CPT,Medicine and Surgery Services,"Routine obstetric care for cesarean delivery, including pre-and post-delivery care"
+59610,59610,CPT,Medicine and Surgery Services,Routine obstetric care for vaginal delivery after prior cesarean delivery including pre-and post-delivery care
+62322,62322,CPT,Medicine and Surgery Services,Injection of substance into spinal canal of lower back or sacrum using imaging guidance
+62322,62323,CPT,Medicine and Surgery Services,Injection of substance into spinal canal of lower back or sacrum using imaging guidance
+64483,64483,CPT,Medicine and Surgery Services,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance
+66821,66821,CPT,Medicine and Surgery Services,Removal of recurring cataract in lens capsule using laser
+66984,66984,CPT,Medicine and Surgery Services,Removal of cataract with insertion of lens
+93000,93000,CPT,Medicine and Surgery Services,"Electrocardiogram, routine, with interpretation and report"
+93452,93452,CPT,Medicine and Surgery Services,Insertion of catheter into left heart for diagnosis
+95810,95810,CPT,Medicine and Surgery Services,Sleep study
+97110,97110,CPT,Medicine and Surgery Services,"Physical therapy, therapeutic exercise"
